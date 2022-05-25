@@ -62,17 +62,16 @@
 # password()
 
 #NUM 9
-# def proverka(chislo):
+# def proverka():
 #     import re
-#     # n = input('Enter password: ')
+#     n = input('Enter password: ')
 #     pat = '[A-Z]'
 #     low = '[a-z]'
 #     if any(map(str.isdigit, n)) and re.search(pat, n) and re.search(low, n):
 #         print('True')
 #     else:
 #         print('False')
-# n = 'b*+Ca7z4SwxP'
-# proverka(n)
+# proverka()
 
 #NUM 10
 # def password():
